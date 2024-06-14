@@ -1,0 +1,21 @@
+					Gamdie.com 
+					----------
+
+* All Games are Preinstalled - Download, Extract, and Play *
+
+How to Run Games:
+-----------------
+
+ - Turn off your Antivirus or make an exclusion folder before extracting the zip file.
+
+ - Extract the downloaded zip file and install all programs in "_Redist" folder.
+
+ - Run the EXE file as an administrator.
+   Sometimes it requires administrator permission to run the game because it is preinstalled.
+
+
+#For premium help and information, join our discord.
+
+Discord: https://discord.gg/hH9sedx4de
+
+(Don't forget to share the site with your friends for free indie games)
